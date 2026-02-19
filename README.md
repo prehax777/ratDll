@@ -8,4 +8,6 @@ but it's going to be a big influx into the exploit community. Development has al
 *Yes, I'm telling you for the third year in a row that there will be a big gap, and nothing is happening. There have been big gaps before, but they only lasted for about 7 days. This time,
 I'm going to use all my skills.*
 
+**A key system is coming soon**
+
 ok thanks bye
