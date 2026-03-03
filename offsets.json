@@ -1,5 +1,3 @@
-// Roblox Version: version-760d064d05424689
-// zex offsets
 namespace offsets {
     inline constexpr uintptr_t Adornee = 0xD0;
     inline constexpr uintptr_t Anchored = 0x1AE;
